@@ -2,7 +2,7 @@
     "name": "jmcobeberrocal/api-company-orders",
     "description": "Filter qty orders by company name or date",
     "type": "library",
-    "license": "LGPL-3.0-only / LGPL-3.0-or-later",
+    "license": "LGPL-3.0-only",
     "authors": [
         {
             "name": "Juan Manuel Cobeña Berrocal",
