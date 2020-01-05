@@ -10,10 +10,5 @@
         }
     ],
     "minimum-stability": "beta",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "jmcobeberrocal\\ApiCompanyOrders\\": "src/"
-        }
-    }
+    "require": {}
 }
