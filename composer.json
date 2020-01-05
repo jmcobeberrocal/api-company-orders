@@ -1,0 +1,14 @@
+{
+    "name": "jmcobeberrocal/api-company-orders",
+    "description": "Filter qty orders by company name or date",
+    "type": "library",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Juan Manuel Cobeña Berrocal",
+            "email": "jmcobeberrocal@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
